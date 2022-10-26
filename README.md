@@ -1,6 +1,6 @@
 # get-pip
 
-Get PIP For Python 2.7 dan >= 3.6. Clone repository ini.
+Get PIP For Python 2.7 dan >= 3.6. Untuk distro yang tidak menyediakan module `pip`. Clone repository ini.
 
 ## Untuk Python 2.7
 
