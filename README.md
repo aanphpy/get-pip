@@ -1,3 +1,3 @@
 # get-pip
 
-Get PIP For Python >= 3.6 dan 2.7
+Get PIP For Python 2.7 dan >= 3.6
